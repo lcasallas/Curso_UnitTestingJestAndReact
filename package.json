@@ -1,0 +1,27 @@
+{
+	"name": "curso_unittestingjestandreact",
+	"version": "1.0.0",
+	"description": "curso unit testing con Jest en React",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"test:watch": "npx jest --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lcasallas/Curso_UnitTestingJestAndReact.git"
+	},
+	"keywords": [
+		"jest",
+		"react"
+	],
+	"author": "leCode",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/lcasallas/Curso_UnitTestingJestAndReact/issues"
+	},
+	"homepage": "https://github.com/lcasallas/Curso_UnitTestingJestAndReact#readme",
+	"devDependencies": {
+		"jest": "^25.3.0"
+	}
+}
